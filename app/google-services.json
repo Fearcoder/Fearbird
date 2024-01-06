@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457935037259",
+    "firebase_url": "https://fear-bird.firebaseio.com",
+    "project_id": "fear-bird",
+    "storage_bucket": "fear-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457935037259:android:f0735815aefdb4491afece",
+        "android_client_info": {
+          "package_name": "nl.fearcoder.fearbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457935037259-5299mcrkk3e1jts45ambcq5mq778tej5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjfrwipWTHyK2ERCQgcC6tGW_k3l-Os4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457935037259-5299mcrkk3e1jts45ambcq5mq778tej5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

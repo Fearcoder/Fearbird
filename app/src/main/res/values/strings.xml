@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fearbird</string>
+    <string name="twitch_link" translatable="false">https://www.twitch.tv/fearhunternl</string>
+    <string name="app_play">Play</string>
+    <string name="app_follow">Follow</string>
+    <string name="app_support">Support me on Twitch</string>
+    <string name="app_restart">Restart</string>
+    <string name="app_exit">Exit</string>
+    <string name="app_personal">"Personal best: "</string>
+    <string name="app_score">"Score: "</string>
+    <string name="app_gameover">Game over</string>
+</resources>

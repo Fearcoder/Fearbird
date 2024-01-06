@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fearbird</string>
+    <string name="app_exit">Stoppen</string>
+    <string name="app_follow">Volgen</string>
+    <string name="app_play">Start</string>
+    <string name="app_restart">Herstarten</string>
+    <string name="app_support">Support mij op Twitch</string>
+    <string name="app_personal">"Hoogste score: "</string>
+    <string name="app_score">"Score: "</string>
+    <string name="app_gameover">Game over</string>
+</resources>
